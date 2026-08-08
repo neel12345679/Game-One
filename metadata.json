@@ -1,0 +1,6 @@
+{
+  "name": "Color Rush 3D",
+  "description": "An addictive 3D color action and puzzle game with infinite procedural levels, vibrant graphics, 3D voxel coloring, and multi-user login profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
